@@ -3,11 +3,11 @@
 const Home: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-blue-100 to-blue-300">
-      <div className="w-1/2 bg-rose-400 text-center h-1/2 pb-5 shadow-red-950 rounded ">
-        <h1 className="text-4xl mt-4  font-bold text-blue-950  rounded drop-shadow-md hover:drop-shadow-xl">
+      <div className="w-1/2 bg-rose-400 text-center h-1/2 align-middle  shadow-red-950 rounded ">
+        <h1 className="text-4xl mt-6 mb-5  font-bold text-blue-950  rounded drop-shadow-md hover:drop-shadow-xl">
           Hello World
         </h1>
-        <h2 className="text-3xl mt-3  font-bold te text-stone-950">
+        <h2 className="text-3xl mt-1  font-bold te text-stone-950">
           I am Asia Parveen
         </h2>
         <p className="text-lg mt-3  font-bold te text-lime-800">
